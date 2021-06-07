@@ -2,23 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Ph.D. Candidate @ Georgia Tech
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
+  image: shruti-lall.jpeg
+  <!-- address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Your City, State 12345</p> -->
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+<!-- news: true  # includes a list of news items -->
+<!-- selected_papers: true # includes a list of papers marked as "selected={true}" -->
+social: true  # includes social icons at the bottom of the page -->
+extra: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Ph.D. Candidate in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/) under the guidance of [Prof. Raghupathy Sivakumar](https://siva.ece.gatech.edu/). I work with the [Georgia Tech Networks and Mobile Computing](http://www.gnan.ece.gatech.edu/) research group in the areas of edge computing, predictive caching and machine learning. In 2015, I received my Masters in Electronic Engineering from the [University of Pretoria](https://www.up.ac.za/), South Africa, under the supervision of [Prof. Sunil Maharaj](https://www.up.ac.za/eece/article/1952219/prof-btj-maharaj-sunil) and [Prof. Attahiru Alfa](https://home.cc.umanitoba.ca/~alfa/index.html). I received my Bachelor's degree in Computer Engineering also from the University of Pretoria in 2013.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
+<!-- My research is in the areas of edge computing, wireless communications and networking, machine learning, predictive caching as well as data mining and modeling. -->

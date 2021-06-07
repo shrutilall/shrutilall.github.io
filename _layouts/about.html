@@ -25,7 +25,7 @@ layout: default
     </div>
     {% endif %}
 
-    <div class="clearfix">
+    <div class="clearfix" align="justify">
       {{ content }}
     </div>
 
@@ -35,6 +35,12 @@ layout: default
 
     {% if page.selected_papers %}
       {% include selected_papers.html %}
+    {% endif %}
+
+    {% if page.extra %}
+    <div>
+      {% include about_extra.html %}
+    </div>
     {% endif %}
 
     {% if page.social %}
